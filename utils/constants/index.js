@@ -13,7 +13,7 @@ const URL_CONTAINER_FILE_NAME = 'urls.txt';
  */
 const START_PORT = 9052;
 const BATCH_COUNT = IS_PROD ? 6 : 1;
-const TOTAL_COUNT = 96;
+const TOTAL_COUNT = 9600;
 const VIEW_ACTION_COUNT = 10;
 const VIEW_DURATION = 50;
 const PAGE_DEFAULT_TIMEOUT = 600;
