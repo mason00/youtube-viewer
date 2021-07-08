@@ -14,7 +14,6 @@ RUN apk add --no-cache \
       tor
 
 ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD true
-ENV NODE_ENV production
 ENV YOUTUBE_VIEWER_FORCE_DEBUG false
 
 # Create app directory
